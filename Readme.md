@@ -7,7 +7,7 @@ Se menciona que el “Día Cero” está muy cerca, se le llama así cuando un l
 
 La problemática del sustento del agua en México ha sido el tema principal y la preocupación de todos los mexicanos, ya que 15 estados están a punto de quedarse sin agua, según el Instituto de Recursos Mundiales (WRI, por sus siglas en inglés) por lo que la oferta y demanda de la sustancia puede afectar no solo en la falta de agua para hacer nuestros quehaceres y aseos diarios sino en lo económico también, a esto se le llama estrés hídrico cuando la demanda de agua potable es más alta que la cantidad disponible. 
 
-!(https://www.eloccidental.com.mx/incoming/chceba-dia-cero.png/alternates/FREE_720/D%C3%ADa%20Cero.png) 
+![Estados en riesgo](Dia_cero.png) 
 
 El agua es indispensable para sobrevivir ya que nos ayuda a mantenernos hidratados y aseados, es por eso que hay quedarnos a la tarea de cuidar esta sustancia tan importante en nuestras vidas. 
 
